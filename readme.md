@@ -77,7 +77,8 @@ A company that fosters collaboration, encourages exploration of emerging technol
 <tr>
 <td>1</td>
 <td>Analysis-on-Idian-Startup-Ecosystem Funding </td>
-<td>Add the project description here...The project conducted Exploratory Data Analysis (EDA) on funding trends in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors influencing funding and provide insights for potential investors</td>
+<td>The project conducted Exploratory Data Analysis (EDA) on funding trends in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors influencing funding and provide insights for potential investors</td>
+<p><P>
 <td>https://medium.com/@richmensah1997/an-exploratory-data-analysis-on-indian-start-up-ecosystem-funding-from-2018-to-2021-with-python-c4020b3e3815</td>
 <td>No App</td>
 <td>None</td>
