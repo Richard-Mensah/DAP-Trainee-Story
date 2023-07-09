@@ -88,12 +88,12 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Regression Analsysis for Time Series Cooporation Favorita Sales Prediction with Machine Learning<td>
+<td>Time Series Project on Corporation Favorita aimed to inform on the stocks of products it should have at a particular point in time by analysing the demand trend of all of its products by consumers by using machine learning model forcast</td>
+<td>https://medium.com/@richmensah1997/time-series-regression-analysis-on-corporation-favorita-sales-prediction-using-machine-learning-c55d56f5e51a</td>
+<td>No App</td>
+<td>None</td>
+<td>https://github.com/Richard-Mensah/Regression-Project-on-Coorporation-Favorita</td>
 </tr>
 
 <tr>
