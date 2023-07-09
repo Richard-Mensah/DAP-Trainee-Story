@@ -1,9 +1,6 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *Richard Mensah*
 My journey through the Azubi Africa Data Analytics Program was a profound and emotional experience. Coming from an educational background, venturing into the world of technology and data felt like stepping into uncharted territory. However, the program transformed me into a force at the intersection of education and technology. With every lesson, I gained a deeper understanding of statistics, analytics, programming, and machine learning, and it ignited a fire within me. Equipped with Python, SQL, and visualization tools, I unraveled hidden insights and witnessed the power of data-driven decision-making. Graduating from Azubi Africa marked not only an academic achievement but a personal triumph, as I embraced a new path and embraced the endless possibilities that lie ahead. With unwavering determination, I am now poised to make a lasting impact, spearheading transformative change and redefining business operations through the strategic application of data science.
 
-
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
-
 ## Let me introduce Myself
 After graduation, I started working with Mayado Impact Consult remotely as Research Assistant before my national service at Ghana Standards Authority as Business Development Assistant.
 
@@ -25,7 +22,7 @@ As I look ahead to the future, my heart swells with determination and an unwaver
 ## What is my dream company or role ?
 - My dream company or role encompasses being a pivotal player in a cutting-edge organization that harnesses the power of data to drive innovation and make a meaningful impact. 
 - I aspire to work as a Data Analyst or Junior Machine Learning Engineer in a dynamic company that values data-driven decision-making and embraces a culture of continuous learning and growth.
- 
+
 A company that fosters collaboration, encourages exploration of emerging technologies, and provides ample opportunities to apply my skills and expertise in solving complex business challenges. Ultimately, my dream is to contribute to the growth and success of an organization that pushes the boundaries of data analytics and positively transforms industries through actionable insights and strategic data-driven solutions.
 
 ## 1st Phase Projects' Summary Table
@@ -79,12 +76,12 @@ A company that fosters collaboration, encourages exploration of emerging technol
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td>Analysis-on-Idian-Startup-Ecosystem Funding </td>
+<td>Add the project description here...The project conducted Exploratory Data Analysis (EDA) on funding trends in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors influencing funding and provide insights for potential investors</td>
+<td>https://medium.com/@richmensah1997/an-exploratory-data-analysis-on-indian-start-up-ecosystem-funding-from-2018-to-2021-with-python-c4020b3e3815</td>
+<td>No App</td>
+<td>None</td>
+<td>https://github.com/Richard-Mensah/Analysis-on-Idian-Startup-Ecosystem-</td>
 </tr>
 
 <tr>
