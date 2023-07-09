@@ -1,28 +1,32 @@
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
-Here is the place to tell the story of your experience of the Data Analytics Program.
+# 📈🧪 Data Analytics Program 🧠📊 : Story of *Richard Mensah*
+My journey through the Azubi Africa Data Analytics Program was a profound and emotional experience. Coming from an educational background, venturing into the world of technology and data felt like stepping into uncharted territory. However, the program transformed me into a force at the intersection of education and technology. With every lesson, I gained a deeper understanding of statistics, analytics, programming, and machine learning, and it ignited a fire within me. Equipped with Python, SQL, and visualization tools, I unraveled hidden insights and witnessed the power of data-driven decision-making. Graduating from Azubi Africa marked not only an academic achievement but a personal triumph, as I embraced a new path and embraced the endless possibilities that lie ahead. With unwavering determination, I am now poised to make a lasting impact, spearheading transformative change and redefining business operations through the strategic application of data science.
+
 
 **Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+After graduation, I started working with Mayado Impact Consult remotely as Research Assistant before my national service at Ghana Standards Authority as Business Development Assistant.
 
 ## How would I describe my experience in the data analytics program ? 
-`Please add text here...`
+My journey through the data analytics program was a profound and inspirational experience. Immersed in the world of statistics, analytics, python programming, and machine learning, I discovered the transformative power of data. With hands-on experience, I harnessed the tools to unveil hidden insights to make data-driven decisions that will reshape industries. Graduating from the program is not just an academic achievement but a reflection to my unwavering dedication and relentless pursuit of knowledge. I am now equipped to embrace the ever-evolving data science landscape, fueling the information revolution and leaving an indelible impact on the world. With boundless possibilities ahead, I am poised to redefine business operations, drive positive change, and unleash the full potential of data to shape a brighter future.
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`Please add text here...`
+The Career Accelerator phase has opened up a whole new world of possibilities in the realm of data analytics. It has been an exhilarating journey of hands-on experiences and real-world projects, immersing me in the practical applications of data analytics, machine learning and deloyment beyond the confines of a mere academics and theory. I have delved deep into various techniques, tools, and methodologies, empowering me to fearlessly tackle complex data challenges either alone with a team. Moreover, the Career Accelerator has been a catalyst for meaningful connections, introducing me to new faces of team members with kindred spirits who share my fervor for data analytics. This transformative phase has not only shaped my career path but also ignited a burning passion within me, propelling me towards success in the dynamic field of data analytics and machine learning.
 
 ## What enticed me to join the Data Analytics Program?
-`Please add text here...`
+The allure of the Data Analytics Program was undeniable, captivating me with its promise of unlocking the hidden power of data. The prospect of delving into the world of statistics, analytics, and machine learning was incredibly enticing, as I yearned to gain proficiency in these transformative technologies. The Azubi program's emphasis on practical application and real-world projects resonated deeply with me, as I desired hands-on experiences to master the art of data analysis. Moreover, the opportunity to connect with industry professionals and like-minded colleagues in the data analytics programme further drew me in, fueling my passion and motivation to embark on this transformative journey.
 
 ## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+Since joining this program, my progress in the tech field of data science has been truly awe-inspiring. Each step of the way, I have witnessed a profound transformation within myself. My technical skills and knowledge have flourished, expanding my expertise in the realms of data analytics, python programming, and machine learning. Through immersive hands-on projects and real-world experiences, I have forged an unwavering confidence in applying these skills to tackle even the most intricate challenges. Navigating the vast landscape of tools and technologies has become second nature to me, empowering me to conquer any technical obstacle with grace and ease. This transformative journey has equipped me with the unwavering strength and unwavering determination to not just survive, but thrive in the ever-evolving world of technology.
 
 ## What are my plans for the future ?
-`Please add text here...`
+As I look ahead to the future, my heart swells with determination and an unwavering passion to create a profound impact in the realm of data analytics. Fueled by my insatiable thirst for knowledge and the desire to unlock hidden insights, I envision myself driving transformative change and innovation across diverse industries. With every step I take, I aspire to be a trusted advisor, guiding organizations towards data-driven decisions that propel their success. To further deepen my expertise, I am planning to pursue an MSC in Data Science, honing my skills and staying at the forefront of emerging technologies. Additionally, I dream of establishing my own consulting firm in Ghana, empowering businesses to harness the full power of data and fostering a culture of analytical excellence. Together, these aspirations represent my unwavering commitment to leaving a lasting legacy and shaping the future of data-driven decision-making in Ghana and beyond.
 
 ## What is my dream company or role ?
-`Please add text here...`
+- My dream company or role encompasses being a pivotal player in a cutting-edge organization that harnesses the power of data to drive innovation and make a meaningful impact. 
+- I aspire to work as a Data Analyst or Junior Machine Learning Engineer in a dynamic company that values data-driven decision-making and embraces a culture of continuous learning and growth.
+ 
+A company that fosters collaboration, encourages exploration of emerging technologies, and provides ample opportunities to apply my skills and expertise in solving complex business challenges. Ultimately, my dream is to contribute to the growth and success of an organization that pushes the boundaries of data analytics and positively transforms industries through actionable insights and strategic data-driven solutions.
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
