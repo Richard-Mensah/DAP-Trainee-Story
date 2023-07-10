@@ -99,7 +99,7 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 <tr>
 <td>3</td>
 <td> Costumer-Churn-Prediction-and-Retention-Strategies-for-Teleco-Company</td>
-<td>This project aim was to identify the key indicators of customer churn for a telecommunications company and develop a model to predict which customers are likely to churn. Insights will be provided into effective retention strategies that the company can implement to reduce customer churn.<td>
+<td>This project aim was to identify the key indicators of customer churn for a telecommunications company and develop a model to predict which customers are likely to churn. Insights will be provided into effective retention strategies that the company can implement to reduce customer churn<td>
 <td>https://medium.com/@richmensah1997/customer-churn-prediction-and-retention-strategies-for-a-telecommunications-company-42af00bdf1e9</td>
 <td> Gradio App</td>
 <td>https://github.com/Richard-Mensah/GRADIO-APP-FOR-SALES-PREDICTION-FOR-CUSTOMER-CHURN</td>
@@ -108,22 +108,22 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 <tr>
 <td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Embedding Machine Learning model into Graphical User Interface (GUI) using STREAMLIT and GRADIO</td>
+<td>In this project, team florence members explored how to embed an ML model into a web app for easy interaction with STREAMLIT and GRADIO.</td>
+<td>https://medium.com/@richmensah1997/streamlit-app-for-sales-prediction-using-embedded-machine-learning-model-84b20e4fa79a</td>
+<td>Streamlit & Gradio </td>
+<td> https://medium.com/@richmensah1997/gradio-for-sales-prediction-for-customer-churn-c57ea3c77092</td>
+<td>https://github.com/Richard-Mensah/EMBEDDING-A-MACHINE-LEARNING-MODEL-INTO-A-GUI</td>
 </tr>
 
 <tr>
 <td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Natural Language Processing Project : Sentiment Analysis,  </td>
+<td>This project gave me the opportunity to fine-tune a pre-trained Deep Learning models from HuggingFace on a new dataset to modify models to predict the sentiments from twitter display neutral, positive, negative for the end-user. A streamlit app was then created and models trained was integrated to deploy the app on the HuggingFace platform</td>
+<td>https://medium.com/@richmensah1997/sentiment-analysis-with-natural-language-processing-c13a164f3a9d?postPublishedType=initial</td>
+<td>Streamlit App </td>
+<td>https://huggingface.co/spaces/RICHARDMENSAH/SENTIMENT-ANALYSIS-APP </td>
+<td>https://github.com/Richard-Mensah/SENTIMENT-ANALYSI-WITH-NLP/blob/main/one.py</td>
 </tr>
 
 <tr>
