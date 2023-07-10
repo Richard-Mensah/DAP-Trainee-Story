@@ -168,11 +168,11 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 1. What happens if you miss a lecture? 
 
-  If you miss a lecture, you can access recorded sessions to catch up on the content and stay on track with the program that made the programme exceptional and best.
+ If you miss a lecture, you can access recorded sessions to catch up on the content and stay on track with the program that made the programme exceptional and best.
 
 1. What do you think of the flexibility of the program? 
 
-    The program offers excellent flexibility, allowing students to balance their learning with other commitments. The self-paced structure, accessible resources, and recorded lectures enable students to tailor their learning experience according to their schedule and convenience.
+ The program offers excellent flexibility, allowing students to balance their learning with other commitments. The self-paced structure, accessible resources, and recorded lectures enable students to tailor their learning experience according to their schedule and convenience.
 
 1. Do the projects worked on help you test your ability / skills? 
 
@@ -199,6 +199,11 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 
 ## My Contacts
+`Richard Mensah`
+
+`Data Analystic Professional`
+`Azubi Africa`
+
   [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Richard-Mensah?tab=repositories)
   [![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@richmensah1997)
   <a href="mailto:richmensah1997@gmail.com">
