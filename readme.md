@@ -151,10 +151,12 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
-People considering joining tech should embrace data analytis, data science and in-demand tech areas, continuously learn and adapt, practice hands-on projects, collaborate with others, stay updated on industry trends, and believe in their abilities.
+
+  People considering joining tech should embrace data analytis, data science and in-demand tech areas, continuously learn and adapt, practice hands-on projects, collaborate with others, stay updated on industry trends, and believe in their abilities.
 
 1. What did you think about the quality of teaching and level of assistance? 
-The quality of teaching and level of assistance were exceptional. The instructors were knowledgeable and dedicated, providing comprehensive explanations and support throughout the program. Their guidance and assistance greatly contributed to my learning experience and overall success.
+
+  The quality of teaching and level of assistance were exceptional. The instructors were knowledgeable and dedicated, providing comprehensive explanations and support throughout the program. Their guidance and assistance greatly contributed to my learning experience and overall success.
 
 1. What did you like most about the program? 
 
@@ -188,18 +190,18 @@ The quality of teaching and level of assistance were exceptional. The instructor
 
 1. Would you say Azubi Has Changed your life ? 
 
-Absolutely, Azubi has truly changed my life. The program has equipped me with invaluable skills and knowledge in data analytics, opening up new career opportunities and empowering me to make a meaningful impact in the tech industry. It has been a transformative journey that has shaped my professional growth and future prospects.
+  Absolutely, Azubi has truly changed my life. The program has equipped me with invaluable skills and knowledge in data analytics, opening up new career opportunities and empowering me to make a meaningful impact in the tech industry. It has been a transformative journey that has shaped my professional growth and future prospects.
 
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
- Without a doubt, the skills I have gained through the program have prepared me to confidently pursue my dream job. The comprehensive curriculum, hands-on projects, and guidance from experienced instructors have equipped me with the necessary knowledge and practical expertise in data analytics. I am confident in my abilities to excel in the field and make a significant impact in my future career.
+  Without a doubt, the skills I have gained through the program have prepared me to confidently pursue my dream job. The comprehensive curriculum, hands-on projects, and guidance from experienced instructors have equipped me with the necessary knowledge and practical expertise in data analytics. I am confident in my abilities to excel in the field and make a significant impact in my future career.
 
 
 ## My Contacts
   [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Richard-Mensah?tab=repositories)
-[![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@richmensah1997)
-<a href="mailto:richmensah1997@gmail.com">
+  [![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@richmensah1997)
+  <a href="mailto:richmensah1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-mensah-ab8564190/)
     [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+233240567894)
 
