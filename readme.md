@@ -128,12 +128,12 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 <tr>
 <td>6</td>
-<td>Embedding a Machine Learning Model into a Web Application</td>
-<td>Sepsis Prediction App with FastAPI and Streamlit</td>
+<td>Embedding a Machine Learning Model into a Web Application, Sepsis Prediction App with FastAPI and Streamlit</td>
 <td>The project was aimed at exploring Trends and Predictors in Patient Data to Uncover the Secrets of Sepsis Occurances. Machine Learning was built provide accurate and efficient classification of sepsis cases using the FastAPI framework and Docker</td>
 <td>https://medium.com/@richmensah1997/predicting-sepsis-status-of-patients-using-machine-learning-model-fa848fce0fe8<td>
-<td>Streamlit App</td>
+<td>Streamlit App<td>
 <td>https://huggingface.co/spaces/RICHARDMENSAH/SEPSIS-PREDICTION-STATUS-APP?logs=build</td>
+<td>https://github.com/Richard-Mensah/Sepsis_Classification_Machine_Learning_API_using_FastAPI/blob/main/main_fastapi.py</td>
 </tr>
 
 <tr>
