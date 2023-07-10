@@ -99,10 +99,10 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 <tr>
 <td>3</td>
 <td> Costumer-Churn-Prediction-and-Retention-Strategies-for-Teleco-Company</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>This project aim was to identify the key indicators of customer churn for a telecommunications company and develop a model to predict which customers are likely to churn. Insights will be provided into effective retention strategies that the company can implement to reduce customer churn.<td>
+<td>https://medium.com/@richmensah1997/customer-churn-prediction-and-retention-strategies-for-a-telecommunications-company-42af00bdf1e9</td>
+<td> Gradio App</td>
+<td>https://github.com/Richard-Mensah/GRADIO-APP-FOR-SALES-PREDICTION-FOR-CUSTOMER-CHURN</td>
 <td> </td>
 </tr>
 
@@ -138,12 +138,12 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 <tr>
 <td>Capstsone</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Classification-_for_Expresso_Telc_Company</td>
+<td>The primary aim of the Expresso-Telco-Churn-Classification Capstone is to build a machine learning model fo the telco company. The specific objective is to predict customer churn, which is defined as customers becoming inactive and ceasing transactions for a duration of 90 days</td>
+<td>https://medium.com/@richmensah1997/customer-churn-prediction-in-a-the-telecom-company-using-machine-learning-fastapi-and-6f84d02fb7bf</td>
+<td>Stremlit App</td>
+<td>https://huggingface.co/spaces/RICHARDMENSAH/Churn_Expresso_Prediction_Streamlit_App?logs=build</td>
+<td>https://github.com/Richard-Mensah/Classification-_for_Expresso_Telc_Company/blob/main/main.py</td>
 </tr>
 
 </tbody>
@@ -151,52 +151,58 @@ in the Indian startup ecosystem from 2018 to 2021, aiming to understand factors
 
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
-
-    `Reply here please.`
+People considering joining tech should embrace data analytis, data science and in-demand tech areas, continuously learn and adapt, practice hands-on projects, collaborate with others, stay updated on industry trends, and believe in their abilities.
 
 1. What did you think about the quality of teaching and level of assistance? 
-
-    `Reply here please.`
+The quality of teaching and level of assistance were exceptional. The instructors were knowledgeable and dedicated, providing comprehensive explanations and support throughout the program. Their guidance and assistance greatly contributed to my learning experience and overall success.
 
 1. What did you like most about the program? 
 
-    `Reply here please.`
+  What I liked most about the program was its comprehensive and practical approach to learning. The program provided hands-on experiences and real-world projects that allowed me to apply my skills and knowledge in a meaningful way. Additionally,  the program offered a rich and immersive learning experience that prepared me well for the challenges and opportunities in the field of data analytics.
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+   The lectures are not just informative but truly captivating and inspiring. The instructors have a unique ability to make complex concepts come to life, igniting a sense of curiosity and wonder within me. Their passion for the subject matter is contagious, creating an immersive learning environment that leaves me eager to explore and discover more. Engaging with the lectures is an emotional journey, as I am constantly amazed by the depth of knowledge and the dedication of the instructors. It is a privilege to be part of such engaging and interesting sessions that fuel my passion for learning and drive my personal growth for a non-IT person to love Tech.
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+  If you miss a lecture, you can access recorded sessions to catch up on the content and stay on track with the program that made the programme exceptional and best.
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+    The program offers excellent flexibility, allowing students to balance their learning with other commitments. The self-paced structure, accessible resources, and recorded lectures enable students to tailor their learning experience according to their schedule and convenience.
 
 1. Do the projects worked on help you test your ability / skills? 
 
-    `Reply here please.`
+ Absolutely! The projects provided in the program serve as valuable opportunities to apply and test students professional abilities and skills. They allow student in a project team to showcase their knowledge, problem-solving capabilities, and creativity, fostering a deeper understanding of the concepts and enhancing practical proficiency.
 
 1. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+ - I propose  some contents of the programme should be simplified in a video recording by instructors from Azubi Africa to ease understanding. Most of the youtube videos recommended as online resources are sometimes difficult to understanding by non-technical students for the first time.
+ - I would suggest incorporating more real-world industry projects and practical case studies into the program. This would provide participants with additional hands-on experience and a deeper understanding of applying data analytics in various domains. 
 
 1. What do you think about the fees structure? 
 
-    `Reply here please.`
+   -  To me, the fees structure is excellent 
+   The fees structure of the program is reasonable considering the value and quality of education provided. 
 
 1. Would you say Azubi Has Changed your life ? 
 
-    `Reply here please.`
+Absolutely, Azubi has truly changed my life. The program has equipped me with invaluable skills and knowledge in data analytics, opening up new career opportunities and empowering me to make a meaningful impact in the tech industry. It has been a transformative journey that has shaped my professional growth and future prospects.
+
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+ Without a doubt, the skills I have gained through the program have prepared me to confidently pursue my dream job. The comprehensive curriculum, hands-on projects, and guidance from experienced instructors have equipped me with the necessary knowledge and practical expertise in data analytics. I am confident in my abilities to excel in the field and make a significant impact in my future career.
 
 
 ## My Contacts
-`Please add your contacts here...`
+  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Richard-Mensah?tab=repositories)
+[![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@richmensah1997)
+<a href="mailto:richmensah1997@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-mensah-ab8564190/)
+    [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+233240567894)
 
 **NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+
+Certainly! In addition to the program, I have also actively started engaging in personal projects and have continued my learning journey beyond the curriculum. I have started undertaken independent data analysis projects, participating in online competitions, and contributing to open-source data science communities. These experiences have allowed me to further refine my skills, expand my portfolio, and network with fellow data enthusiasts. Furthermore, I have started attending webinars, workshops, and industry conferences to stay updated on the latest trends and advancements in the field. By immersing myself in these activities, I am deepening my understanding, broadening my perspectives, and continuously enhancing my abilities as a data analytics professional.
