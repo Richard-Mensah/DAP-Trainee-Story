@@ -26,7 +26,10 @@ As I look ahead to the future, my heart swells with determination and an unwaver
 A company that fosters collaboration, encourages exploration of emerging technologies, and provides ample opportunities to apply my skills and expertise in solving complex business challenges. Ultimately, my dream is to contribute to the growth and success of an organization that pushes the boundaries of data analytics and positively transforms industries through actionable insights and strategic data-driven solutions.
 
 ## 1st Phase Projects' Summary Table
-`Please add text here...`
+Summary of 1st Phase Projects
+
+The 1st phase of the program consisted of diverse and engaging projects that fostered my growth in the field of data analytics. From exploratory data analysis and predictive modeling to data visualization and machine learning, each project provided valuable hands-on experience. Through these projects, I honed my skills in data cleaning, feature engineering, model evaluation, and interpretation of results. The projects challenged me to think critically, apply theoretical concepts, and solve real-world data problems.
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -38,30 +41,32 @@ A company that fosters collaboration, encourages exploration of emerging technol
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
+<td>Revenue and Expense Analysis </td>
+<td>Using Numpy and Pandas to find revenue generated and total expenses of an organization</td>
+<td>Through this project, I gained hands-on experience in data manipulation, calculation, and analysis using Numpy and Pandas libraries. Additionally, I calculated the total expenses by multiplying the wholesale price and sales quantity for each product. These insights provided valuable information for decision-making and financial planning within the organization.</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Machine Learning Tutorials</td>
+<td> This project repository consists of several Jupyter notebooks created using Colaboratory, covering various aspects of machine learning. The notebooks provide step-by-step guides and examples on topics such as vehicle insurance claim prediction, house pricing prediction, fraud detection, and scikit-learn end-to-end pipeline usage. The goal of this project is to serve as a resource for individuals looking to start their machine learning journey and gain hands-on experience with different machine learning techniques and tools by our Machine Learning Engineer(Facilitator)</td>
+<td>The tutorials in this project provided a comprehensive understanding of machine learning concepts and their practical implementation</td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Shifting Image Analysis using Numpy and Pandas</td>
+<td>The "Shifting Image Analysis" project focused on analyzing the effects of shifting images using Numpy and Pandas libraries. The project involved creating a DataFrame from a given dataset and then performing image shifting operations, such as shifting images up/down and left/right. The goal was to visually observe and analyze the results of these shifting operations on a specific image. The project provides insights into image manipulation techniques and highlights the capabilities of Numpy and Pandas in image analysis</td>
+<td>The notebook showcased the usage of fetch_openml to import the MNIST dataset, followed by the creation of a DataFrame using Numpy and Pandas. It then demonstrates the image shifting process using shift() from the scipy.ndimage library. Various shifting operations, including up/down and left/right, are applied to a selected image, and the results are visualized using Matplotlib. The project allowed for experimentation and exploration of image manipulation techniques and serves as a starting point for further analysis and research in this domain
+</td>
 </tr>
 
 </tbody>
 </table>
 
 ## Career Accelerator Projects' Summary Table
-`Please add text here...`
+The Career Accelerator phase encompassed a range of impactful projects that enhanced my skills in data analysis, problem-solving and deployment. From conducting in-depth data analysis and predictive modeling to creating visually compelling data visualizations, each project provided valuable hands-on experience. I also gained proficiency natural language processing, exploratory data analysis, machine learning, deployment, and data cleaning. These projects equipped me with the practical skills needed to excel in the field of data analytics.
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
